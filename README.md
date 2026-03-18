@@ -1,1 +1,1 @@
-Añadiendo el ReadMe
+Se ha creado un archivo .gitignore para no compartir datos personales
